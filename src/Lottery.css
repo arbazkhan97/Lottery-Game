@@ -1,0 +1,12 @@
+.lottery{
+    border: 2px solid white;
+    border-radius: 12px;
+    /* margin-left: 20rem; */
+    justify-content: center;
+
+
+}
+.lottery span{
+    padding-left: 20px;
+
+}
